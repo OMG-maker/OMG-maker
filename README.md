@@ -1,7 +1,4 @@
 일단 굵게살자.
- <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOMG-maker)](https://hits.seeyoufarm.com)
-</div>
 <div align=center><h1>STACKS</h1></div>
 
 <div align=center> 
