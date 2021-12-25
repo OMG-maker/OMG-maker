@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <div/>
     
-<h3Frontend</h3>
+<h3>Frontend</h3>
   
 <div align=center> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
