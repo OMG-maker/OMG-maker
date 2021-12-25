@@ -2,8 +2,7 @@
 </br>
 
 
-<div align=left><h1>![image](https://user-images.githubusercontent.com/83509684/147385511-8c50851a-7d76-4b78-ba68-5c1af6f82c86.png)
-About Me</h1></div>
+<div align=left><h1>🤚About Me</h1></div>
 <ul>
   <li>안녕하세요. 풀스택 개발자를 꿈꾸는 신입 개발자입니다.</li>
   <li>클린코드를 위해서 고민하는 과정을 중요하게 생각합니다.</li>
