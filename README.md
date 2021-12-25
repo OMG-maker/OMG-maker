@@ -1,11 +1,3 @@
-```
-About Me
-
-* 백엔드 전문가를 지향하는 신입 개발자입니다.
-
-
-
-
 <div align=left><h1>STACKS</h1></div>
 
 
