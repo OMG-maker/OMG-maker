@@ -1,3 +1,6 @@
+우선 굵게살고, 열심히 길게살자.
+</br></br>
+
 <div align=left><h1>About Me</h1></div>
 <ul>
   <li>풀스택 개발자를 꿈꾸는 신입 개발자입니다.</li>
