@@ -1,11 +1,11 @@
-<div align=center><h1>About Me</h1></div>
+<div align=left><h1>About Me</h1></div>
 매일 의미있는 하루를 소망합니다.
 
 
 
 
 
-<div align=center><h1>STACKS</h1></div>
+<div align=left><h1>STACKS</h1></div>
 
 
 <h3>Backend</h3>
