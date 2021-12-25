@@ -1,5 +1,6 @@
-우선 굵게살고, 열심히 길게살자.
-</br></br>
+<h6>우선 굵게살고, 열심히 길게살자.</h6>
+</br></br></br>
+
 
 <div align=left><h1>About Me</h1></div>
 <ul>
