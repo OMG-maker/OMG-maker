@@ -1,4 +1,4 @@
-일단 굵게살자.
+몰입이 결과를 낳는다
 <div align=center><h1>STACKS</h1></div>
 
 <div align=center> 
