@@ -1,4 +1,4 @@
-<div align=center><h7>우선 굵게살고, 열심히 길게살자.</h7></div>
+<div align=center><h6>일단 굵게살자.</h6></div>
 </br></br>
 
 
