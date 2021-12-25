@@ -1,3 +1,10 @@
+<div align=left><h1>About Me</h1></div>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+  
 <div align=center><h1>STACKS</h1></div>
 
 
