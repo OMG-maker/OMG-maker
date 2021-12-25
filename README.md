@@ -8,7 +8,7 @@
   <li>클린코드를 위해서 고민하는 시간을 중요하게 생각합니다.</li>
   <li>문제해결을 위한 몰입을 즐깁니다.</li>
 </ul>
-</br></br></br>
+</br></br>
   
 <div align=left><h1>STACKS</h1></div>
 <h3>Backend</h3>
