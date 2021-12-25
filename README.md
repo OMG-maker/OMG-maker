@@ -2,7 +2,7 @@
 <div align=center><h1>STACKS</h1></div>
 
 
-- [Backend]
+- <h2>Backend</h2>
 <div align=center> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
