@@ -1,5 +1,5 @@
 <div align=center><h6>일단 굵게살자.</h6></div>
-</br></br>
+</br>
 
 
 <div align=left><h1>About Me</h1></div>
